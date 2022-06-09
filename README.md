@@ -12,7 +12,7 @@
        Ajax, Jquery , COS , JSTL 
 # DB 설계
 ![image](https://user-images.githubusercontent.com/102267923/172859685-65b907c0-c551-4950-8b58-978494417daf.png)
-# 화면구현
+# 화면구현 | Click-> <a href="https://youtu.be/JW0tt_WupRo">영상으로보기</a>
 
 <h3>메인화면</h3>
 
